@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>Philiprehberger.Disposer</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>Philip Rehberger</Authors>
+    <Description>Composite disposable container — collect multiple IDisposable/IAsyncDisposable objects and dispose them all at once in reverse order with error aggregation</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/philiprehberger/dotnet-disposer</RepositoryUrl>
+    <PackageTags>disposable;dispose;cleanup;composite;resource-management</PackageTags>
+  </PropertyGroup>
+
+</Project>
