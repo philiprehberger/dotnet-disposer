@@ -85,6 +85,12 @@ All registered items are disposed even if some throw. Exceptions are collected a
 | `DisposeWith<T>(Disposer)` | Register an `IDisposable` and return it for fluent use |
 | `DisposeAsyncWith<T>(Disposer)` | Register an `IAsyncDisposable` and return it for fluent use |
 
+## Development
+
+```bash
+dotnet build src/Philiprehberger.Disposer.csproj --configuration Release
+```
+
 ## License
 
 MIT
