@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>Philiprehberger.Disposer</PackageId>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <Authors>Philip Rehberger</Authors>
     <Description>Composite disposable container — collect multiple IDisposable/IAsyncDisposable objects and dispose them all at once in reverse order with error aggregation</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>

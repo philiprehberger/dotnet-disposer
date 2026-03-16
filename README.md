@@ -1,5 +1,9 @@
 # Philiprehberger.Disposer
 
+[![CI](https://github.com/philiprehberger/dotnet-disposer/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-disposer/actions/workflows/ci.yml)
+[![NuGet](https://img.shields.io/nuget/v/Philiprehberger.Disposer.svg)](https://www.nuget.org/packages/Philiprehberger.Disposer)
+[![License](https://img.shields.io/github/license/philiprehberger/dotnet-disposer)](LICENSE)
+
 Composite disposable container — collect multiple `IDisposable`/`IAsyncDisposable` objects and dispose them all at once in reverse order with error aggregation.
 
 ## Install
