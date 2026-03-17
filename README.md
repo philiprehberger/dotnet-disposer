@@ -6,7 +6,7 @@
 
 Composite disposable container — collect multiple `IDisposable`/`IAsyncDisposable` objects and dispose them all at once in reverse order with error aggregation.
 
-## Install
+## Installation
 
 ```bash
 dotnet add package Philiprehberger.Disposer
