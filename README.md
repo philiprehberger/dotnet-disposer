@@ -4,7 +4,7 @@
 [![NuGet](https://img.shields.io/nuget/v/Philiprehberger.Disposer.svg)](https://www.nuget.org/packages/Philiprehberger.Disposer)
 [![License](https://img.shields.io/github/license/philiprehberger/dotnet-disposer)](LICENSE)
 
-Composite disposable container — collect multiple `IDisposable`/`IAsyncDisposable` objects and dispose them all at once in reverse order with error aggregation.
+Composite disposable container that disposes multiple IDisposable/IAsyncDisposable objects in reverse order.
 
 ## Installation
 

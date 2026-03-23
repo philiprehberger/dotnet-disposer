@@ -7,9 +7,9 @@
     <LangVersion>latest</LangVersion>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <PackageId>Philiprehberger.Disposer</PackageId>
-    <Version>0.1.5</Version>
+    <Version>0.1.6</Version>
     <Authors>Philip Rehberger</Authors>
-    <Description>Composite disposable container — collect multiple IDisposable/IAsyncDisposable objects and dispose them all at once in reverse order with error aggregation</Description>
+    <Description>Composite disposable container that disposes multiple IDisposable/IAsyncDisposable objects in reverse order.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/philiprehberger/dotnet-disposer</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
