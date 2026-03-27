@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.8 (2026-03-26)
+
+- Add Sponsor badge and fix License link format in README
+
 ## 0.1.7 (2026-03-24)
 
 - Add unit tests
