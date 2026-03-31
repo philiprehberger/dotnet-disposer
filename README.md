@@ -2,8 +2,7 @@
 
 [![CI](https://github.com/philiprehberger/dotnet-disposer/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-disposer/actions/workflows/ci.yml)
 [![NuGet](https://img.shields.io/nuget/v/Philiprehberger.Disposer.svg)](https://www.nuget.org/packages/Philiprehberger.Disposer)
-[![License](https://img.shields.io/github/license/philiprehberger/dotnet-disposer)](LICENSE)
-[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/dotnet-disposer)](https://github.com/philiprehberger/dotnet-disposer/commits/main)
 
 Composite disposable container that disposes multiple IDisposable/IAsyncDisposable objects in reverse order.
 
@@ -91,6 +90,24 @@ All registered items are disposed even if some throw. Exceptions are collected a
 ```bash
 dotnet build src/Philiprehberger.Disposer.csproj --configuration Release
 ```
+
+## Support
+
+If you find this project useful:
+
+⭐ [Star the repo](https://github.com/philiprehberger/dotnet-disposer)
+
+🐛 [Report issues](https://github.com/philiprehberger/dotnet-disposer/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+
+💡 [Suggest features](https://github.com/philiprehberger/dotnet-disposer/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+
+❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
+
+🌐 [All Open Source Projects](https://philiprehberger.com/open-source-packages)
+
+💻 [GitHub Profile](https://github.com/philiprehberger)
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/philiprehberger)
 
 ## License
 
